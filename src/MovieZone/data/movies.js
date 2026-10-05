@@ -219,4 +219,64 @@ export const movies = [
       "https://image.tmdb.org/t/p/original/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
     category: "Action",
   },
+  {
+    id: 969681,
+    title: "Spider-Man: Brand New Day",
+    release_date: "2026-07-31",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/bjiS5ipwxb9JFy3XRRN4OAilSeX.jpg",
+    category: "Action",
+  },
+  {
+    id: 1084244,
+    title: "Toy Story 5",
+    release_date: "2026-06-19",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/sfQtVlIHljToOwYjhe21KPGzZWK.jpg",
+    category: "Animation",
+  },
+  {
+    id: 1226863,
+    title: "The Super Mario Galaxy Movie",
+    release_date: "2026-04-01",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/eJGWx219ZcEMVQJhAgMiqo8tYY.jpg",
+    category: "Animation",
+  },
+  {
+    id: 1582770,
+    title: "Dhurandhar: The Revenge",
+    release_date: "2026-03-18",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/ov8vrRLZGoXHpYjSY9Vpv1tHJX7.jpg",
+    category: "Thriller",
+  },
+  {
+    id: 1213898,
+    title: "Border 2",
+    release_date: "2026-01-23",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/AmrCgmDPEJ6QxllS1rhjYwgO9Wb.jpg",
+    category: "Drama",
+  },
+  {
+    id: 1185806,
+    title: "PAW Patrol: The Dino Movie",
+    release_date: "2026-08-14",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/qnin56Syy5rbG7KCaxWY7SPuy6p.jpg",
+    category: "Animation",
+  },
 ];
