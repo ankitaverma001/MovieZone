@@ -1,0 +1,33 @@
+.movie-zone__filters {
+  width: 1000px;
+  max-width: 100%;
+  margin: auto;
+}
+
+.filter-bar {
+  text-align: center;
+}
+
+.movie-zone__grid {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  text-align: center;
+  width: 1300px;
+  max-width: 100%;
+  margin: 1.5rem auto 0;
+}
+
+.movie-card {
+  max-width: 280px;
+  text-align: center;
+  padding: 10px;
+}
+
+.movie-card__poster img {
+  width: 200px;
+  height: 280px;
+  border-radius: 10px;
+  border: 1px solid yellow;
+}
