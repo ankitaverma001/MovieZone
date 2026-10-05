@@ -159,4 +159,64 @@ export const movies = [
       "https://image.tmdb.org/t/p/original/ipoUI3FzVTczg2r8mYxNlE5SsMh.jpg",
     category: "Action",
   },
+  {
+    id: 693134,
+    title: "Dune: Part Two",
+    release_date: "2024-03-01",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/3HzGtM0JpfH2pWFGugJK22LRP6b.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/3HzGtM0JpfH2pWFGugJK22LRP6b.jpg",
+    category: "Sci-Fi",
+  },
+  {
+    id: 872585,
+    title: "Oppenheimer",
+    release_date: "2023-07-21",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",
+    category: "Drama",
+  },
+  {
+    id: 823464,
+    title: "Godzilla x Kong: The New Empire",
+    release_date: "2024-03-29",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/z1p34vh7dEOnLDmyCrlUVLuoDzd.jpg",
+    category: "Action",
+  },
+  {
+    id: 786892,
+    title: "Furiosa: A Mad Max Saga",
+    release_date: "2024-05-24",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/iADOJ8Zymht2JPMoy3R7xceZprc.jpg",
+    category: "Action",
+  },
+  {
+    id: 746036,
+    title: "The Fall Guy",
+    release_date: "2024-05-03",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/7jOgVAiw12pS1d7DgPvkacmvPxg.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/7jOgVAiw12pS1d7DgPvkacmvPxg.jpg",
+    category: "Thriller",
+  },
+  {
+    id: 912649,
+    title: "Venom: The Last Dance",
+    release_date: "2024-10-25",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/vGXptEdgZIhPg3cGlc7e8sNPC2e.jpg",
+    category: "Action",
+  },
 ];
