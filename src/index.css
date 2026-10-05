@@ -4,7 +4,9 @@
 }
 
 body {
-  background-color: black;
+  min-height: 100vh;
+  background: radial-gradient(circle at 50% -10%, #1b1f3b 0%, #0c0e1a 40%, #000000 85%);
+  background-attachment: fixed;
   color: white;
 }
 
