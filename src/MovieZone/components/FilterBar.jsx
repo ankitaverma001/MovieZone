@@ -6,7 +6,7 @@ const FilterBar = ({ activeCategory, onSelect }) => {
       <button
         type="button"
         onClick={() => onSelect("All")}
-        className={`btn btn-outline-primary mx-3 ${activeCategory === "All" ? "active" : ""}`}
+        className={`filter-btn ${activeCategory === "All" ? "filter-btn--active" : ""}`}
       >
         All
       </button>
@@ -15,7 +15,7 @@ const FilterBar = ({ activeCategory, onSelect }) => {
           key={category}
           type="button"
           onClick={() => onSelect(category)}
-          className={`btn btn-outline-primary mx-3 ${activeCategory === category ? "active" : ""}`}
+          className={`filter-btn ${activeCategory === category ? "filter-btn--active" : ""}`}
         >
           {category}
         </button>
