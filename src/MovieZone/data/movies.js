@@ -99,4 +99,64 @@ export const movies = [
       "https://image.tmdb.org/t/p/original/b33nnKl1GSFbao4l3fZDDqsMx0F.jpg",
     category: "Sci-Fi",
   },
+  {
+    id: 872906,
+    title: "Jawan",
+    release_date: "2023-09-07",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/jFt1gS4BGHlK8xt76Y81Alp4dbt.jpg",
+    category: "Action",
+  },
+  {
+    id: 864692,
+    title: "Pathaan",
+    release_date: "2023-01-25",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/arf00BkwvXo0CFKbaD9OpqdE4Nu.jpg",
+    category: "Thriller",
+  },
+  {
+    id: 781732,
+    title: "Animal",
+    release_date: "2023-12-01",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/hr9rjR3J0xBBKmlJ4n3gHId9ccx.jpg",
+    category: "Drama",
+  },
+  {
+    id: 1163258,
+    title: "12th Fail",
+    release_date: "2023-10-27",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/u7BeOSx3bkXkFNlMg8Ik5h5Jpl8.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/u7BeOSx3bkXkFNlMg8Ik5h5Jpl8.jpg",
+    category: "Drama",
+  },
+  {
+    id: 1112426,
+    title: "Stree 2",
+    release_date: "2024-08-15",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/2NC7sj8rheKxWqLYAbHnCa4mYBH.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/2NC7sj8rheKxWqLYAbHnCa4mYBH.jpg",
+    category: "Horror",
+  },
+  {
+    id: 885331,
+    title: "Gadar 2",
+    release_date: "2023-08-11",
+    backdrop_path:
+      "https://image.tmdb.org/t/p/original/ipoUI3FzVTczg2r8mYxNlE5SsMh.jpg",
+    poster_path:
+      "https://image.tmdb.org/t/p/original/ipoUI3FzVTczg2r8mYxNlE5SsMh.jpg",
+    category: "Action",
+  },
 ];
